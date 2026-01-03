@@ -1,0 +1,9 @@
+# Abaikan folder virtual environment
+.venv/
+__pycache__/
+
+# Abaikan file data
+*.csv
+
+# Abaikan file kredensial
+.env
